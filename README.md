@@ -1,7 +1,7 @@
 # LebFay
 1. Description
     Bienvenue au niveau de la page d'installation de l'application mobile LEBFAY.
-    Avant de commencer veuillez télécharger l'application à partir de [ce lien] [1]
+    Avant de commencer veuillez télécharger l'application à partir de [ce lien]
    
 
 
