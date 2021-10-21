@@ -5,9 +5,9 @@
    
 
 
-2. After getting the application, move it to a directory in your phone, then download it and follow the installation instructions.
+2. After getting the application, move it to a directory in your phone, then follow the installation instructions.
 
 
 
 
- [this link]: https://drive.google.com/file/d/1dr1qLjrwYXbjfUoWF_wK3bWrZdr1nWPt/view?usp=sharing
+ [this link]: https://drive.google.com/file/d/1L3Z9QhMrBL-YTWM-fqQUHb8ZxR0ouDcJ/view?usp=sharing
