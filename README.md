@@ -1,7 +1,7 @@
-# LebFay
+# LF Money
 1. Description :
 
-   Welcome to the LEBFAY mobile application installation page. Before you start, please download the app from [this link]
+   Welcome to the LF MONEY mobile application installation page. Before you start, please download the app from [this link]
    
 
 
@@ -10,4 +10,4 @@
 
 
 
- [this link]: https://drive.google.com/file/d/12mb57gyHmXWbXCv72wBVT56icCRx-Ypw/view?usp=sharing
+ [this link]: https://drive.google.com/file/d/1qzjai5gFPIyGWyLFJeypOhWC_2-5hmAW/view?usp=drive_link
